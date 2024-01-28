@@ -1,0 +1,4 @@
+code red house blue blue blue
+player humanoid
+red green
+yellow blue blue blue

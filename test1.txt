@@ -1,0 +1,10 @@
+code blue green orange red orange
+player human
+red red red
+yellow green red orange yellow
+yellow green blue
+green red orange yellow orange
+red green orange yellow orange
+yellow green orange blue orange
+blue green orange blue orange
+blue green orange red orange 
